@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Kitty Wenying Liu # the website title (if blank, full name will be used instead)
 first_name: Kitty Wenying
 middle_name: 
 last_name: Liu
 contact_note: >
-  wl399 [at] cam [dot] ac [dot] uk
+  'I have no idea where this will lead us, but I have a definite feeling it will be a place both wonderful and strange.' -- Special Agent Dale Cooper
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Linguistics at the University of Cambridge
 footer_text: >
