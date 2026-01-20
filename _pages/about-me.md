@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
+permalink: /about-me/
+title: about me
 description: members of the lab or group
 nav: false
 nav_order: 7
