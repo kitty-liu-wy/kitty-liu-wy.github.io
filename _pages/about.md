@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: wl399 ~at~ cam ~dot~ ac ~dot~ uk ; pronouns: she/any
+subtitle:
 
 profile:
   align: right
