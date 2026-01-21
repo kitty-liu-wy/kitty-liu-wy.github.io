@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle:
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: <p> wl399 [at] cam [dot] ac [dot] uk </p> 
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +26,21 @@ latest_posts:
 
 Hi! I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025, and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
 
-My working languages are English and Mandarin Chinese. I can also try to talk to you in Swedish.
+You can contact me at wl399 [at] cam [dot] ac [dot] uk .
 
-Since I have a very common surname, I publish under both my English and Chinese given names. In English-speaking contexts, I go by Kitty Liu /ˈkɪ.ti lʲʉ/. In Mandarin-speaking contexts, I go by 刘文樱 liú wényīng [li̯ɤ͡ʊ̯˧˥ vən˧˥ jɪŋ˥]. 
+# Research interests
+
+I am interested in how language changes over time, and in the interactivity between changes across different linguistic domains. I have been pursuing these themes by focusing on the diachrony of Tibetic langauges. I am currently focusing on the diachrony of clause chaining - at the interface of discourse, syntax, and morphology - in my PhD research, but I have also worked on the historical phonology and morphophonology of Tibetic languages. 
+
+[another paragraph on my supporting interests for methodologies, theory, etc?]
+
+# Current projects
+
+**My PhD project** concerns XYZ
+
+I am employed as a research assistant on the **PROJECT**
+
+I am also employed as a research assistant on **this other project**
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
