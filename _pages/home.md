@@ -28,13 +28,13 @@ Hi! I am a PhD student in Linguistics at the University of Cambridge. I work on 
 
 You can contact me at wl399 [at] cam [dot] ac [dot] uk .
 
-# Research interests
+<h3> Research interests </h3>
 
 I am interested in how language changes over time, and in the interactivity between changes across different linguistic domains. I have been pursuing these themes by focusing on the diachrony of Tibetic langauges. I am currently focusing on the diachrony of clause chaining - at the interface of discourse, syntax, and morphology - in my PhD research, but I have also worked on the historical phonology and morphophonology of Tibetic languages. 
 
 [another paragraph on my supporting interests for methodologies, theory, etc?]
 
-# Current projects
+<h3> Current projects </h3>
 
 **My PhD project** concerns XYZ
 
