@@ -23,7 +23,10 @@ My research output is presented in these following categories. Please email me i
 
 <div class="publications">
 
-<h3 id="articles">peer-reviewed articles</h3>
+
+<h3 id="articles" style="margin-top: 3.3rem; margin-bottom: 0.3rem;">
+  peer-reviewed articles
+</h3>
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;">
 {% bibliography -f articles %}
 
