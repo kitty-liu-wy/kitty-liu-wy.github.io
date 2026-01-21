@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications_presentations/
-title: publications + presentations
+title: publications & presentations
 description: 
 nav: true
 nav_order: 2
