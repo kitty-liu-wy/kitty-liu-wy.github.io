@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <p> 
-My research output is presented in these following categories. Please email me if you would like a copy of anything that isn't linked here.
+This page lists my research output. Please email me if you would like a copy of anything that isn't already linked!
 </p>
 
 <ul>
