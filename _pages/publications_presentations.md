@@ -15,9 +15,6 @@ My research output is presented in these following categories. Please email me i
 
 <ul>
     <li><a href="#articles"><b>peer-reviewed journal articles</b></a></li>
-    <li><a href="#proceedings"><b>conference proceedings</b></a></li>
-    <li><a href="#reviewed_presentations"><b>peer-reviewed presentations</b></a></li>
-    <li><a href="#theses"><b>theses</b></a></li>
 </ul>
 
 
