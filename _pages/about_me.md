@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /about_me/
 title: about
-description: members of the lab or group
+description: 
 nav: true
 nav_order: 7
 
