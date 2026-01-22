@@ -1,27 +1,61 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+  "general information": {
+    "name": "Kitty Wenying Liu",
+    "summary": "First-year PhD student specialising in historical linguistics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wl399 [at] cam [dot] ac [dot] uk",
+    "phone": "",
+    "url": "https://kitty-liu-wy.github.io",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Trinigy Hall",
+      "postalCode": "CB2 1TJ",
+      "city": "Cambridge",
+      "countryCode": "UK",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "historical linguistics, corpus linguistics, language revitalisation, syntax",
+      "studyType": "PhD in Linguistics",
+      "startDate": "2025",
+      "endDate": "",
+      "score": "",
+      "courses": ""
+    }
+   {
+      "institution": "University of Cambridge, UK",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "historical linguistics, morphology, morphophonology",
+      "studyType": "MPhil (by Thesis) in Linguistics",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "",
+      "coursees": "[Title: TITLE. Examined by Prof Nathan Hill]"
+    }
+   {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],  
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -45,19 +79,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+
   "awards": [
     {
       "title": "Nobel Prize in Physics",
