@@ -2,31 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Kitty Wenying Liu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Theoretical and Applied Linguistics
+      institution: University of Cambridge (College: Trinity Hall), UK
+      year: 2025 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Focusing on the development of clause chaining in the history of Tibetic languages. 
+        - Supervised by Dr. Marieke Meelen.
+    - title: MPhil (by Thesis) in Theoretical and Applied Linguistics
+      institution: University of Cambridge (College: Selwyn), UK
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - title: Verb paradigms in Tibetic: Morphophonology in diachronic perspective
+        - Examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge). Passed with no corrections.
 
 - title: Experience
   type: time_table
