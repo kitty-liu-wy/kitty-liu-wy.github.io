@@ -25,7 +25,7 @@ This page lists my research output. Please email me if you would like a copy of 
 <div class="publications">
 
 
-<h3 id="articles" style="margin-top: 6rem; margin-bottom: 0rem;">
+<h3 id="articles" style="margin-top: 4.5rem; margin-bottom: -1rem;">
   peer-reviewed articles
 </h3>
 <!-- adding in the following manually codes in a divider under the heading
@@ -33,17 +33,17 @@ This page lists my research output. Please email me if you would like a copy of 
 -->
 {% bibliography -f articles %}
 
-<h3 id="proceedings"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
+<h3 id="proceedings"><h3 style="margin-top: 4.5rem; margin-bottom: -1rem;">
     conference proceedings
 </h3>
 {% bibliography -f proceedings %}
 
-<h3 id="reviewed_presentations"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
+<h3 id="reviewed_presentations"><h3 style="margin-top: 4.5rem; margin-bottom: -1rem;">
     peer-reviewed presentations
 </h3>
   {% bibliography -f reviewed_presentations %}
 
-<h3 id="theses"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
+<h3 id="theses"><h3 style="margin-top: 4.5rem; margin-bottom: -1rem;">
     theses
 </h3>
 {% bibliography -f theses %}
