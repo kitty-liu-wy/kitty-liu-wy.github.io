@@ -47,5 +47,7 @@ This page lists my research output. Please email me if you would like a copy of 
 </h3>
 {% bibliography -f theses %}
 
+<h3 id="test" tyle="margin-top: 1rem; margin-bottom: -1rem;">  </h3>
+{% bibliography -f test %}
 
 </div>
