@@ -22,7 +22,7 @@ This page lists my research output. Please email me if you would like a copy of 
 </ul>
 
 
-<div class="publications">
+<!-- <div class="publications"> -->
 
 
 <h3 id="articles" style="margin-top: 4.5rem; margin-bottom: -1rem;">
@@ -49,4 +49,4 @@ This page lists my research output. Please email me if you would like a copy of 
 {% bibliography -f theses %}
 
 
-</div>
+<!-- </div> -->
