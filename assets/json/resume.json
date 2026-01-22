@@ -24,43 +24,43 @@
       "location": "Cambridge, UK",
       "url": "",
       "area": "",
-      "studyType": "PhD in Linguistics",
+      "studyType": "PhD - Theoretical and Applied Linguistics",
       "startDate": "2025",
       "endDate": "",
       "score": "",
-      "courses": ["Working on the diachrony of clause-chaining in Tibetic", "Thesis supervised by Dr Marieke Meelen"]
+      "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
     },
    {
       "institution": "University of Cambridge, UK",
       "location": "Cambridge, UK",
       "url": "",
       "area": "",
-      "studyType": "MPhil (by Thesis) in Linguistics",
+      "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
       "startDate": "2023",
       "endDate": "2024",
       "score": "",
-       "courses": ["Thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge). Awarded Pass with No Corrections."]
+      "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
     },
    {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
       "url": "",
       "area": "",
-      "studyType": "BA (Hons)",
+      "studyType": "BA Hons - Theoretical and Applied Linguistics",
       "startDate": "2020",
       "endDate": "2023",
       "score": "",
-      "courses": ["Interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "Awarded with First Class degree"]
+      "courses": ["interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "awarded with First Class degree"]
     }
   ], 
   "additional training": [
     {
-      "institution": "Paris universities and linguistic laboratories",
+      "institution": "Paris universities and linguistic laboratories (FieldLing)",
       "location": "Paris, France",
       "url": "",
       "area": "",
-      "studyType": "International School in Linguistic Fieldwork (FieldLing)",
-      "Date": "2025-09",
+      "studyType": "International School in Linguistic Fieldwork",
+      "date": "2025-09",
       "score": "",
       "courses": ""
     },
@@ -69,23 +69,22 @@
       "location": "Cambridge, UK",
       "url": "",
       "area": "",
-      "studyType": "MPhil (by Thesis) in Linguistics",
+      "studyType": "MPhil",
       "startDate": "2023",
       "endDate": "2024",
       "score": "",
-       "courses": ["Thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge). Awarded Pass with No Corrections."]
+       "courses": ""
     },
    {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
       "url": "",
       "area": "",
-      "studyType": "BA (Hons)",
+      "studyType": "BA",
       "startDate": "2020",
       "endDate": "2023",
       "score": "",
-      "courses": ["Interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "Awarded with First Class degree"]
-    }
+      "courses": ""
   ], 
   "work": [
     {
