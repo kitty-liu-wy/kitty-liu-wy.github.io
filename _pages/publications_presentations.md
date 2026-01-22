@@ -25,22 +25,25 @@ This page lists my research output. Please email me if you would like a copy of 
 <div class="publications">
 
 
-<h3 id="articles" style="margin-top: 3.3rem; margin-bottom: 0.3rem;">
+<h3 id="articles" style="margin-top: 6rem; margin-bottom: 0rem;">
   peer-reviewed articles
 </h3>
+<!-- adding in the following manually codes in a divider under the heading
+<hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
+-->
 {% bibliography -f articles %}
 
-<h3 id="proceedings"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">
+<h3 id="proceedings"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
     conference proceedings
 </h3>
 {% bibliography -f proceedings %}
 
-<h3 id="reviewed_presentations"><h3 style="margin-top: 3rem; margin-bottom: 0.3rem;">
+<h3 id="reviewed_presentations"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
     peer-reviewed presentations
 </h3>
   {% bibliography -f reviewed_presentations %}
 
-<h3 id="theses"><h3 style="margin-top: 3.3rem; margin-bottom: 0.3rem;">
+<h3 id="theses"><h3 style="margin-top: 6rem; margin-bottom: 0rem;">
     theses
 </h3>
 {% bibliography -f theses %}
