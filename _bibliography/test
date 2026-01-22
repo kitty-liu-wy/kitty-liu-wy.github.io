@@ -1,0 +1,28 @@
+---
+---
+
+@booklet{Liu2026KCL,
+  IGNOREbibtex_show=true,
+  IGNOREhandout = {https://kitty-liu-wy.github.io/assets/pdf/FILE_NAME},
+  author = {Liu, Kitty Wenying},
+  title = {Investigating Classical Tibetan clause-chaining in a part-of-speech tagged corpus},
+  year = {2026},
+  month = {mar},
+  howpublished = {part of the `Data in Historical Linguistics' seminar series, King's College London, London, UK}
+}
+
+@booklet{Meelenetal2025barcelona,
+  author = {Meelen, Marieke and Faggionato, Christian and Liu, Kitty Wenying and Liu, Liwen and Hill, Nathan W.},
+  title = {Pragmaticalisation of the Speaker and Addressee in the history of Tibetan and Newar},
+  year = {2025}, 
+  month = {mar},
+  howpublished = {presentation at the `Charting Honorific and Addressee Morphosyntactic Processes' workshop, Universitat Pompeu Fabra, Barcelona, Spain}
+}
+
+@booklet{LiuAndersson2023LSA,
+  author = {Liu, Kitty Wenying and Andersson, Samuel},
+  title = {Development of Tibetic verb paradigms: Diachronic and paradigm-based explanations},
+  year = {2025},
+  month = {jan},
+  howpublished = {presentation at the Linguistics Society of America annual meeting, Philadelphia, PA, USA}
+}
