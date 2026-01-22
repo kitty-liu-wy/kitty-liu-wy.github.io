@@ -44,7 +44,7 @@ This page lists my research output. Please email me if you would like a copy of 
   {% bibliography -f reviewed_presentations %}
 
 <h3 id="test" style="margin-top: 4.5rem; margin-bottom: -1rem;">
-    theses
+    test
 </h3>
 {% bibliography -f test %}
 
