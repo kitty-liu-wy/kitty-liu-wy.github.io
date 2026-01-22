@@ -2,23 +2,32 @@
   type: map
   contents:
     - name: Full Name
-      value: 
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: 
-      institution: 
-      year: 
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
-    - title:
-      institution: 
-      year: 
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - 1
-        - 2
+        - Description 1.
+        - Description 2.
+
 - title: Experience
   type: time_table
   contents:
