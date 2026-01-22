@@ -17,8 +17,8 @@ This page lists my research output. Please email me if you would like a copy of 
     <li><a href="#articles"><b>peer-reviewed journal articles</b></a></li>
     <li><a href="#proceedings"><b>conference proceedings</b></a></li>
     <li><a href="#reviewed_presentations"><b>peer-reviewed presentations</b></a></li>
+    <li><a href="#test"><b>test</b></a></li>
     <li><a href="#theses"><b>theses</b></a></li>
-    <li><a href="#theses-old"><b>theses-old</b></a></li>
 </ul>
 
 
@@ -43,13 +43,13 @@ This page lists my research output. Please email me if you would like a copy of 
 </h3>
   {% bibliography -f reviewed_presentations %}
 
-<h3 id="theses" style="margin-top: 4.5rem; margin-bottom: -1rem;">
+<h3 id="test" style="margin-top: 4.5rem; margin-bottom: -1rem;">
     theses
 </h3>
-{% bibliography -f diss %}
+{% bibliography -f test %}
 
-<h3 id="theses-old" style="margin-top: 4.5rem; margin-bottom: -1rem;">
-    theses-old
+<h3 id="theses" style="margin-top: 4.5rem; margin-bottom: -1rem;">
+    theses
 </h3>
 {% bibliography -f theses %}
 
