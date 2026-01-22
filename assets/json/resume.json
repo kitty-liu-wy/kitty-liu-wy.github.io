@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kitty Wenying Liu",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wl399 (at) cam (dot) ac (dot) uk",
+    "phone": "",
+    "url": "https://kitty-liu-wy.github.io",
+    "summary": "First-year PhD student specialising in historical linguistics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Trinity Hall",
+      "postalCode": "CB2 1TJ",
+      "city": "Cambridge",
+      "countryCode": "UK",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
