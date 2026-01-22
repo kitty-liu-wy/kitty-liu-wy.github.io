@@ -2,24 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Kitty Wenying Liu
+      value: 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Theoretical and Applied Linguistics
-      institution: University of Cambridge (College: Trinity Hall), UK
-      year: 2025 - 
+    - title: 
+      institution: 
+      year: 
       description:
-        - Focusing on the development of clause chaining in the history of Tibetic languages. 
-        - Supervised by Dr. Marieke Meelen.
-    - title: MPhil (by Thesis) in Theoretical and Applied Linguistics
-      institution: University of Cambridge (College: Selwyn), UK
-      year: 2023 - 2024
+        - 1
+        - 2
+    - title:
+      institution: 
+      year: 
       description:
-        - title: Verb paradigms in Tibetic \: Morphophonology in diachronic perspective
-        - Examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge). Passed with no corrections.
-
+        - 1
+        - 2
 - title: Experience
   type: time_table
   contents:
