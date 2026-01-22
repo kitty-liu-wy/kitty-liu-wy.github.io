@@ -5,7 +5,7 @@
     "image": "",
     "email": "wl399 (at) cam (dot) ac (dot) uk",
     "phone": "",
-    "url": "https://kitty-liu-wy.github.io",
+    "website": "https://kitty-liu-wy.github.io",
     "summary": "First-year PhD student specialising in historical linguistics",
     "location": {
       "address": "Trinity Hall",
@@ -22,6 +22,47 @@
       }
     ]
   },
+ "education": [
+    {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "",
+      "studyType": "PhD - Theoretical and Applied Linguistics",
+      "startDate": "2025",
+      "endDate": "",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+   {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "",
+      "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+   {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "",
+      "studyType": "BA Hons - Theoretical and Applied Linguistics",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
+
+
+
+
+
+  
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
