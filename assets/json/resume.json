@@ -32,7 +32,7 @@
       "endDate": "",
       "score": "",
       "courses": ""
-    }
+    },
    {
       "institution": "University of Cambridge, UK",
       "location": "Cambridge, UK",
@@ -42,8 +42,8 @@
       "startDate": "2023",
       "endDate": "2024",
       "score": "",
-      "coursees": "[Title: TITLE. Examined by Prof Nathan Hill]"
-    }
+      "coursees": "[Title: TITLE.] [Examined by Prof Nathan Hill]"
+    },
    {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
