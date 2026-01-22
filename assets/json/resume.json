@@ -1,92 +1,27 @@
 {
-  "general information": {
-    "name": "Kitty Wenying Liu",
-    "summary": "First-year PhD student specialising in historical linguistics",
-    "email": "",
-    "url": "",
+  "basics": {
+    "name": "Albert Einstein",
+    "label": "Scientist",
+    "image": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
-  "education": [
-    {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
-      "url": "",
-      "area": "",
-      "studyType": "PhD - Theoretical and Applied Linguistics",
-      "startDate": "2025",
-      "endDate": "",
-      "score": "",
-      "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
-    },
-   {
-      "institution": "University of Cambridge, UK",
-      "location": "Cambridge, UK",
-      "url": "",
-      "area": "",
-      "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
-      "startDate": "2023",
-      "endDate": "2024",
-      "score": "",
-      "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
-    },
-   {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
-      "url": "",
-      "area": "",
-      "studyType": "BA Hons - Theoretical and Applied Linguistics",
-      "startDate": "2020",
-      "endDate": "2023",
-      "score": "",
-      "courses": ["interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "awarded with First Class degree"]
-    }
-  ], 
-  "additional training": [
-    {
-      "institution": "Paris universities and linguistic laboratories (FieldLing)",
-      "location": "Paris, France",
-      "url": "",
-      "area": "",
-      "studyType": "International School in Linguistic Fieldwork",
-      "date": "2025-09",
-      "score": "",
-      "courses": ""
-    },
-   {
-      "institution": "University of Cambridge, UK",
-      "location": "Cambridge, UK",
-      "url": "",
-      "area": "",
-      "studyType": "MPhil",
-      "startDate": "2023",
-      "endDate": "2024",
-      "score": "",
-       "courses": ""
-    },
-   {
-      "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
-      "url": "",
-      "area": "",
-      "studyType": "BA",
-      "startDate": "2020",
-      "endDate": "2023",
-      "score": "",
-      "courses": ""
-   }
-  ], 
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -110,7 +45,19 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-
+  "education": [
+    {
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "awards": [
     {
       "title": "Nobel Prize in Physics",
