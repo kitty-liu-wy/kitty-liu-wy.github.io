@@ -10,7 +10,7 @@ nav_order: 3
 <!-- _pages/publications.md -->
 
 <p> 
-  Teaching and service at university level:
+  University-level teaching and academic service:
 </p>
 
 <ul>
@@ -24,7 +24,7 @@ nav_order: 3
 
 <ul>
     <li><a href="#access"><b>improving access to higher education</b></a></li>
-    <li><a href="#student_journalism"><b>student_journalism</b></a></li>
+    <li><a href="#student_journalism"><b>student journalism</b></a></li>
 </ul>
 
 
