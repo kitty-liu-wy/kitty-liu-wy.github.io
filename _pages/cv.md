@@ -9,3 +9,5 @@ description: You can view my full CV by clicking on the PDF icon.
 toc:
   sidebar: left
 ---
+
+<!-- the cv document is assets/json/resume.json -->
