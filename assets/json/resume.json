@@ -1,10 +1,7 @@
 {
   "info": {
     "name": "Kitty Wenying Liu",
-    "label": "",
-    "image": "",
     "email": "wl399 (at) cam (dot) ac (dot) uk",
-    "phone": "",
     "website": "https://kitty-liu-wy.github.io",
     "summary": "First-year PhD student specialising in historical linguistics",
     "location": {
@@ -13,19 +10,13 @@
       "city": "Cambridge",
       "countryCode": "UK",
       "region": ""
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
+    }
     ]
   },
  "education": [
     {
       "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
+      "location": "Trinity Hall, Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "PhD - Theoretical and Applied Linguistics",
@@ -36,7 +27,7 @@
     },
    {
       "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
+      "location": "Selwyn College, Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
@@ -47,7 +38,7 @@
     },
    {
       "institution": "University of Cambridge",
-      "location": "Cambridge, UK",
+      "location": "Selwyn College, Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "BA Hons - Theoretical and Applied Linguistics",
