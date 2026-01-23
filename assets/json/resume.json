@@ -10,12 +10,19 @@
       "city": "Cambridge",
       "countryCode": "UK",
       "region": ""
-    }
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
  "education": [
     {
       "institution": "University of Cambridge",
-      "location": "Trinity Hall, Cambridge, UK",
+      "location": "Trinity Hall, \n Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "PhD - Theoretical and Applied Linguistics",
@@ -26,7 +33,7 @@
     },
    {
       "institution": "University of Cambridge",
-      "location": "Selwyn College, Cambridge, UK",
+      "location": "Selwyn College, \n Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
@@ -37,7 +44,7 @@
     },
    {
       "institution": "University of Cambridge",
-      "location": "Selwyn College, Cambridge, UK",
+      "location": "Selwyn College, \n Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "BA Hons - Theoretical and Applied Linguistics",
