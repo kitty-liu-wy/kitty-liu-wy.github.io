@@ -91,6 +91,7 @@ layout: default
             <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
             <div>
               {% case data[0] %}
+                {% # to add to this following list of tags, must also go to _config.yml - at the bottom there is a list of whitelisted tags %}
                 {% when 'basics' %}
                   {% include resume/basics.liquid %}
                 {% when 'info' %}
