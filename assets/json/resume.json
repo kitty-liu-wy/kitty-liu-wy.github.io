@@ -46,8 +46,22 @@
     }
   ],
 
+   "training": [
+    {
+      "institution": "University of Cambridge",
+      "location": "Trinity Hall",
+      "url": "",
+      "area": "",
+      "studyType": "PhD - Theoretical and Applied Linguistics",
+      "startDate": "2025",
+      "endDate": "",
+      "score": "10",
+      "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
+    }
+   ],
+
   
-  "work": [
+  "employment": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
