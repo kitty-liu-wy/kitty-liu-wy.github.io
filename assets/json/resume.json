@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "info": {
     "name": "Kitty Wenying Liu",
     "email": "wl399 (at) cam (dot) ac (dot) uk",
     "web": "https://kitty-liu-wy.github.io",
@@ -44,7 +44,7 @@
   ],
 
   
-  "work": [
+  "employment": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
