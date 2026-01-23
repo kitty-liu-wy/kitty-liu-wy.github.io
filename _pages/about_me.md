@@ -13,5 +13,5 @@ profiles:
     image: kitty.jpg
     content: about_kitty.md
     image_circular: true # crops the image to make it circular
-    more_info: me
+    more_info: I know more than the average person about bell-ringing and stained glass.
 ---
