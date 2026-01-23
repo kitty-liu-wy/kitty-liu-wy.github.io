@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "info": {
     "name": "Kitty Wenying Liu",
     "label": "",
     "image": "",
@@ -32,7 +32,7 @@
       "startDate": "2025",
       "endDate": "",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
     },
    {
       "institution": "University of Cambridge",
@@ -43,7 +43,7 @@
       "startDate": "2023",
       "endDate": "2024",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
     },
    {
       "institution": "University of Cambridge",
@@ -54,13 +54,9 @@
       "startDate": "2020",
       "endDate": "2023",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "awarded with First Class degree"]
     }
   ],
-
-
-
-
 
   
   "work": [
