@@ -651,11 +651,15 @@ jekyll_get_json:
 
 jsonresume:
   - basics
+  - info
   - work
+  - employment
   - education
+  - training
   - publications
   - projects
   - volunteer
+  - service
   - awards
   - certificates
   - skills
