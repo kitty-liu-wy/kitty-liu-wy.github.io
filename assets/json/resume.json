@@ -1,7 +1,10 @@
 {
   "info": {
     "name": "Kitty Wenying Liu",
+    "label": "Scientist",
+    "image": "",
     "email": "wl399 (at) cam (dot) ac (dot) uk",
+    "phone": "(912) 123-4567",
     "website": "https://kitty-liu-wy.github.io",
     "summary": "First-year PhD student specialising in historical linguistics",
     "location": {
@@ -19,6 +22,8 @@
       }
     ]
   },
+
+  
  "education": [
     {
       "institution": "University of Cambridge",
