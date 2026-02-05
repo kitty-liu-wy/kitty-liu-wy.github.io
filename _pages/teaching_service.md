@@ -32,7 +32,7 @@ nav_order: 3
 
 
 <h3 id="supos" style="margin-top: 4.5rem; margin-bottom: -1rem;">
-  small-group teaching for undergraduate courses (University of Cambridge)
+  small-group teaching (University of Cambridge)
 </h3>
 <!-- adding in the following manually codes in a divider under the heading
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
