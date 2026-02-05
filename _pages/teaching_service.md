@@ -19,7 +19,7 @@ nav_order: 3
 </ul>
 
 <p>
-  Linguistics outreach:
+  Engagement and outreach for linguistics:
 </p>
 
 <ul>
