@@ -25,23 +25,34 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025, and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
+I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025, and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
 
-You can contact me at wl399 [at] cam [dot] ac [dot] uk .
+You can contact me at wl399 [at] cam [dot] ac [dot] uk - please do drop me an email if you want to talk about any of my work, you would like to see any writins or slides that I haven't linked, or if any external links on this site are broken.
 
-<h3> Research interests </h3>
+<h3> Research interests and current projects </h3>
 
-I am interested in how language changes over time, and in the interactivity between changes across different linguistic domains. I have been pursuing these themes by focusing on the diachrony of Tibetic langauges. I am currently focusing on the diachrony of clause chaining - at the interface of discourse, syntax, and morphology - in my PhD research, but I have also worked on the historical phonology and morphophonology of Tibetic languages. 
+<b> Diachrony </b>
 
-[another paragraph on my supporting interests for methodologies, theory, etc?]
+I am interested in how language changes over time, and in the interactivity between changes across different linguistic domains. My research so far has focused on the diachrony of Tibetic langauges. In my undergraduate and MPhil work, I examined diachronic phenomena which exhibited interactions between phonetics and phonology, and phonology and morphology. 
 
-<h3> Current projects </h3>
+For my PhD project, I am studying the diachronic development of clause chaining between the Old Tibetan period and present-day Tibetic languages. Clause-chaining sits at the interface of discourse, syntax, and morphology, and is often discussed as a kind of 'intermediate' phenomenon between coordination and subordination. In Tibetic languages specifically, the clause-chaining system interacts with clausal nominalisation, the case / postposition system, and possibly switch reference.
 
-**My PhD project** concerns XYZ
+<b> Linguistic corpora and fieldwork </b>
 
-I am employed as a research assistant on the **PROJECT**
+As an extension of and complement to doing historical llinguistics on a lesser-studied and low-resource language family, I also work on creating language resources for Tibetic languages. 
 
-I am also employed as a research assistant on **this other project**
+I am part of the team making the first part-of-speech tagged diachronic corpus of written Tibetan, as part of the AHRC-funded project ['The Emergence of Egophoricity'](https://gtr.ukri.org/projects?ref=AH%2FV011235%2F1), which investigates the emergence of 'ego' perspective marking in Tibetan and Newar. 
+
+I also do some work on language documentation and revitalisation. [something about collecting data on Humla Tibetan] I am also part of [short description of Dzardzongke and Humla language app projects]
+
+<b> Theoretical morphology </b>
+
+I am also working on / would like to spend more time working on non-concatenative morphology in Tibetic languages. Verbal morphology in Old and Classical Tibetan - and conservative modern-day varieties to a lesser extent - exhibit <b> a) </b> complex paradigm patterns that can simultaneously involve different kinds of concatenative and non-concatenative exponence, and <b> b) </b> multitudinous inflectional classes, which present great challenges for formal accounts. I discuss synchronic and diachronic aspects of these phenomena in [my MPhil](https://doi.org/10.17605/osf.io/z9sr2), and present some analyses from Paradigm Morphology perspectives. I am currently working on developing further analyses for these phenomena in Nanosyntax. This is very much a work in progress, but I am very excited for directions this could lead to. 
+
+<!-- for my own awareness - 
+I am also interested in doing future work on (in no particular order:) the interaction between linguistic knowledge and literacy, language attitudes especially pertaining to the perception of 'natveness', general work on historical phonology, general work on historical morphology, and the history of linguistics. This is many things, but frankly if I were interested in fewer things, I would not be justifying the breadth of my training and interests in this field.
+--!>
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
