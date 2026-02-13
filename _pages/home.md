@@ -41,7 +41,7 @@ For my PhD project, I am studying the diachronic development of clause chaining 
 
 In my undergraduate and MPhil work, I examined diachronic phenomena which exhibited interactions between phonetics and phonology, and phonology and morphology. I am currently working to extend my MPhil thesis on Tibetic verbal morphophonology by applying formal frameworks - please see the 'theoretical morphology' section below. 
 
-<b><u> linguistic corpora and fieldwork </u></b>
+<h4> linguistic corpora and fieldwork </h4>
 
 As an extension of and complement to doing historical linguistics on a lesser-studied and low-resource language family, I also work on creating language resources for Tibetic languages. 
 
@@ -49,7 +49,11 @@ I am part of the team making the first part-of-speech tagged diachronic corpus o
 
 I also do some work on language documentation and revitalisation. [something about collecting data on Humla Tibetan] I am also part of [short description of Dzardzongke and Humla language app projects]
 
-<b><u> theoretical morphology </u></b>
+<h5> theoretical morphology </h5>
+
+I am also working on / would like to spend more time working on non-concatenative morphology in Tibetic languages. Verbal morphology in Old and Classical Tibetan - and conservative modern-day varieties to a lesser extent - exhibit <b> a) </b> complex paradigm patterns that can simultaneously involve different kinds of concatenative and non-concatenative exponence, and <b> b) </b> multitudinous inflectional classes, which present great challenges for formal accounts. I discuss synchronic and diachronic aspects of these phenomena in [my MPhil](https://doi.org/10.17605/osf.io/z9sr2), and present some analyses from Paradigm Morphology perspectives. I am currently working on developing further analyses for these phenomena in Nanosyntax. This is very much a work in progress, but I am very excited for directions this could lead to. 
+
+<h6> theoretical morphology </h6>
 
 I am also working on / would like to spend more time working on non-concatenative morphology in Tibetic languages. Verbal morphology in Old and Classical Tibetan - and conservative modern-day varieties to a lesser extent - exhibit <b> a) </b> complex paradigm patterns that can simultaneously involve different kinds of concatenative and non-concatenative exponence, and <b> b) </b> multitudinous inflectional classes, which present great challenges for formal accounts. I discuss synchronic and diachronic aspects of these phenomena in [my MPhil](https://doi.org/10.17605/osf.io/z9sr2), and present some analyses from Paradigm Morphology perspectives. I am currently working on developing further analyses for these phenomena in Nanosyntax. This is very much a work in progress, but I am very excited for directions this could lead to. 
 
