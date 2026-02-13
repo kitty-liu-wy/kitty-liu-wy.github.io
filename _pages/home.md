@@ -31,7 +31,7 @@ You can contact me at wl399 [at] cam [dot] ac [dot] uk .
 
 Please do drop me an email if you want to talk about any of my work, you would like to see any writings or slides that are not linked, or if any external links on this site are broken.
 
-<h3 style="margin-top: 2rem; margin-bottom: 2rem;"> Research interests and current projects </h3>
+<h3 style="margin-top: 2rem; margin-bottom: 1.5rem;"> Research interests and current projects </h3>
 
 <b><u> Diachrony </u></b>
 
