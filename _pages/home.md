@@ -57,6 +57,10 @@ I am also working on / would like to spend more time working on non-concatenativ
 I am also interested in doing future work on (in no particular order:) the interaction between linguistic knowledge and literacy, language attitudes especially pertaining to the perception of 'natveness', general work on historical phonology, general work on historical morphology, and the history of linguistics. This is many things, but frankly if I were interested in fewer things, I would not be justifying the breadth of my training and interests in this field.
 --!>
 
+<!-- the socials at the bottom are done through the file _data/socials.yml, and the original source comes from jekyll-socials. here is the full list of socials that they've pre-defined: https://github.com/george-gca/jekyll-socials/blob/main/site/_data/socials.yml -->
+
+
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
