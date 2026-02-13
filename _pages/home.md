@@ -33,7 +33,7 @@ Please do drop me an email if you want to talk about any of my work, you would l
 
 <h3 style="margin-top: 2rem; margin-bottom: 1rem;"> Research interests and current projects </h3>
 
-<h5 style="margin-top: 2rem; margin-bottom: 1.5rem;"> diachrony </h5>
+<h5 style="margin-top: 2rem; margin-bottom: 1rem;"> diachrony </h5>
 
 I am interested in how language changes over time, and in the interactivity between changes across different linguistic domains. My research so far has focused on the diachrony of Tibetic langauges. 
 
@@ -49,7 +49,7 @@ I am part of the team making the first part-of-speech tagged diachronic corpus o
 
 I also do some work on language documentation and revitalisation. [something about collecting data on Humla Tibetan] I am also part of [short description of Dzardzongke and Humla language app projects]
 
-<h5 style="margin-top: 2rem; margin-bottom: 2rem;"> theoretical morphology </h5>
+<h5 style="margin-top: 2rem; margin-bottom: 1rem;"> theoretical morphology </h5>
 
 I am also working on / would like to spend more time working on non-concatenative morphology in Tibetic languages. Verbal morphology in Old and Classical Tibetan - and conservative modern-day varieties to a lesser extent - exhibit <b> a) </b> complex paradigm patterns that can simultaneously involve different kinds of concatenative and non-concatenative exponence, and <b> b) </b> multitudinous inflectional classes, which present great challenges for formal accounts. I discuss synchronic and diachronic aspects of these phenomena in [my MPhil](https://doi.org/10.17605/osf.io/z9sr2), and present some analyses from Paradigm Morphology perspectives. I am currently working on developing further analyses for these phenomena in Nanosyntax. This is very much a work in progress, but I am very excited for directions this could lead to. 
 
