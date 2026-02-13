@@ -37,6 +37,9 @@ nav_order: 3
 <!-- adding in the following manually codes in a divider under the heading
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
 -->
+
+<b><u> supervision at the University of Cambridge, for the Linguistics BA(Hons) programme: </u></b>
+
 {% bibliography -f supos %}
 
 <h3 id="events" style="margin-top: 4.5rem; margin-bottom: -1rem;">
