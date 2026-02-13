@@ -38,7 +38,10 @@ nav_order: 3
 <hr style="color: var(--global-text-color); height: 1px; margin-bottom: 2rem;"> 
 -->
 
+<!-- i've tried adding a heading for each block of teaching like this, 
+but this messes with line spacing and the placement of the template-generated line in a big way
 <b><u> supervision at the University of Cambridge, for the Linguistics BA(Hons) programme: </u></b>
+-->
 
 {% bibliography -f supos %}
 
