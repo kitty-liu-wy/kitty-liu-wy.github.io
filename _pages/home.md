@@ -27,7 +27,9 @@ latest_posts:
 
 I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025, and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
 
-You can contact me at wl399 [at] cam [dot] ac [dot] uk - please do drop me an email if you want to talk about any of my work, you would like to see any writins or slides that I haven't linked, or if any external links on this site are broken.
+You can contact me at wl399 [at] cam [dot] ac [dot] uk .
+
+Please do drop me an email if you want to talk about any of my work, you would like to see any writings or slides that are not linked, or if any external links on this site are broken.
 
 <h3 style="margin-top: 2rem; margin-bottom: 2rem;"> Research interests and current projects </h3>
 
