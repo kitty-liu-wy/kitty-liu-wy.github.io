@@ -12,8 +12,8 @@
   
  "education": [
     {
-      "institution": "University of Cambridge",
-      "location": "Trinity Hall",
+      "institution": "University of Cambridge; Trinity Hall",
+      "location": "Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "PhD - Theoretical and Applied Linguistics",
@@ -23,8 +23,8 @@
       "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
     },
    {
-      "institution": "University of Cambridge",
-      "location": "Selwyn College",
+      "institution": "University of Cambridge; Selwyn College",
+      "location": "Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
@@ -34,8 +34,8 @@
       "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
     },
    {
-      "institution": "University of Cambridge",
-      "location": "Selwyn College",
+      "institution": "University of Cambridge; Selwyn College",
+      "location": "Cambridge, UK",
       "url": "",
       "area": "",
       "studyType": "BA Hons - Theoretical and Applied Linguistics",
