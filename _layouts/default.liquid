@@ -13,6 +13,17 @@
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
+
+<!-- this is for google indexing -->
+headTags: [
+  {
+    tagName: 'meta',
+    attributes: {
+      name: 'google-site-verification',
+      content: 'LaGbZet27I9VYSccGGJ1xGrpwg4lm8xlEOkBu4DGnn4',
+    },
+  },
+],
   </head>
 
   <!-- Body -->
