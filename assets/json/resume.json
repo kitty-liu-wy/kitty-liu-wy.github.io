@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "Kitty Wenying Liu",
-    "summary": "First-year PhD student specialising in historical linguistics",
+    "summary": "PhD student specialising in historical linguistics",
     "email": "wl399 (at) cam (dot) ac (dot) uk",
     "web": "https://kitty-liu-wy.github.io",
     "ORCID": "https://orcid.org/0009-0003-2430-1203",
@@ -48,6 +48,28 @@
 
    "training": [
     {
+      "institution": "Paris universities and linguistic laboratories",
+      "location": "Paris, France",
+      "url": "",
+      "area": "",
+      "studyType": "International School in Linguistic Fieldwork ('Fieldling')",
+      "startDate": "Sept 2025",
+      "endDate": "",
+      "score": "10",
+      "courses": ["lectures and seminars on methodological issues and tools in linguistic fieldwork, elicitation practice sessions"]
+    },
+     {
+      "institution": "Trinity College Dublin",
+      "location": "Dublin, Ireland",
+      "url": "https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/",
+      "area": "",
+      "studyType": "Summer School for Ancient Trans-Himalayan Languages",
+      "startDate": "June 2025",
+      "endDate": "",
+      "score": "10",
+      "courses": [""]
+    },
+     {
       "institution": "University of Cambridge",
       "location": "Trinity Hall",
       "url": "",
@@ -56,7 +78,7 @@
       "startDate": "2025",
       "endDate": "",
       "score": "10",
-      "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
+      "courses": [""]
     }
    ],
 
