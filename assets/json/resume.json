@@ -16,7 +16,7 @@
       "location": "Cambridge, UK",
       "area": "",
       "studyType": "PhD - Theoretical and Applied Linguistics",
-      "startDate": "Oct 2025",
+      "startDate": "2025-10",
       "endDate": "",
       "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
     },
@@ -25,8 +25,8 @@
       "location": "Cambridge, UK",
       "area": "",
       "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
-      "startDate": "Oct 2023",
-      "endDate": "Jul 2024",
+      "startDate": "2023-10",
+      "endDate": "2024-07",
       "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
     },
    {
@@ -34,8 +34,8 @@
       "location": "Cambridge, UK",
       "area": "",
       "studyType": "BA Hons - Theoretical and Applied Linguistics",
-      "startDate": "Oct 2020",
-      "endDate": "Jun 2023",
+      "startDate": "2020-10",
+      "endDate": "2023-06",
       "courses": ["interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "awarded with First Class degree"]
     }
   ],
@@ -43,14 +43,14 @@
   "awards": [
     {
       "title": "Cambridge International Scholarship",
-      "date": "Mar 2025",
+      "date": "2025",
       "awarder": "Cambridge Trust",
       "url": "https://www.cambridgetrust.org",
       "summary": "full scholarship and stipend for PhD"
     },
      {
       "title": "Anna Morpurgo Davies Masters Bursary",
-      "date": "Aug 2023",
+      "date": "2023",
       "awarder": "The Philological Society",
       "url": "https://philsoc.org.uk",
       "summary": "partial scholarship for MPhil"
@@ -64,7 +64,7 @@
       "url": "https://fieldling.sciencesconf.org",
       "area": "",
       "studyType": "International School in Linguistic Fieldwork ('Fieldling')",
-      "date": "Sep 2025"
+      "date": "2025-09"
     },
      {
       "institution": "Trinity College Dublin",
@@ -72,14 +72,14 @@
       "url": "https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/",
       "area": "",
       "studyType": "Summer School for Ancient Trans-Himalayan Languages",
-      "date": "Jun 2025"
+      "date": "2025-06"
     },
      {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
       "area": "",
       "studyType": "Automated Speech Recognition for Endangered Languages Workshop",
-      "date": "Apr 2023"
+      "date": "2023-04"
     },
      {
       "institution": "Universiteit Leiden",
@@ -87,7 +87,7 @@
       "url": "https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics",
       "area": "",
       "studyType": "Leiden Summer School in Languages and Linguistics",
-      "date": "Jun 2021"
+      "date": "2021-06"
     }
    ],
 
@@ -98,7 +98,7 @@
       "location": "Cambridge, UK",
       "position": "Undergraduate supervisor for Linguistics (BA Hons)",
       "url": "https://kitty-liu-wy.github.io/teaching_service/#supos",
-      "startDate": "Oct 2024",
+      "startDate": "2024-10",
       "endDate": "",
       "summary": "",
       "highlights": ["small-group teaching for undergraduate courses at intro and advanced level"]
@@ -108,8 +108,8 @@
       "location": "London, UK",
       "position": "Research Assistant for AHRC project 'The Emergence of Egophoricity'",
       "url": "https://gtr.ukri.org/projects?ref=AH%2FV011235%2F1",
-      "startDate": "Oct 2024",
-      "endDate": "Jan 2026",
+      "startDate": "2024-10",
+      "endDate": "2026-01",
       "summary": "",
       "highlights": ["corpus annotator for Classical Tibetan", "researching the grammaticalisation of 'ego' perspective markers"]
     },
@@ -118,8 +118,8 @@
       "location": "Cambridge, UK",
       "position": "Research Assistant on computational models for polysemy",
       "url": "https://doi.org/10.17863/CAM.116178",
-      "startDate": "Mar 2023",
-      "endDate": "Oct 2023",
+      "startDate": "2023-03",
+      "endDate": "2023-10",
       "summary": "",
       "highlights": ["data annotator for dependencies structures between different meanings of polysemous words"]
     }
