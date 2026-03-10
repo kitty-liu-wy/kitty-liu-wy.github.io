@@ -66,7 +66,7 @@
       "studyType": "Summer School for Ancient Trans-Himalayan Languages",
       "startDate": "June 2025",
       "endDate": "June 2025",
-      "score": "10",
+      "score": "10"
     },
      {
       "institution": "University of Cambridge",
@@ -76,8 +76,7 @@
       "studyType": "Automated Speech Recognition for Endangered Languages Workshop",
       "startDate": "Apr 2023",
       "endDate": "",
-      "score": "10",
-      "courses": [""]
+      "score": "10"
     },
      {
       "institution": "Universiteit Leiden",
@@ -95,13 +94,34 @@
   
   "employment": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Cambridge, Dept. Theoretical and Applied Linguistics",
+      "location": "Cambridge, UK",
+      "position": "Undergraduate supervisor for Linguistics (BA Hons)",
+      "url": "",
+      "startDate": "Oct 2024",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["small-group teaching for undergraduate courses at intro and advanced level"]
+    },
+    {
+      "name": "SOAS University",
+      "location": "London, UK",
+      "position": "Research Assistant for AHRC project 'The Emergence of Egophoricity'",
+      "url": "",
+      "startDate": "Oct 2024",
+      "endDate": "Aug 2024",
+      "summary": "Jan 2026",
+      "highlights": ["corpus annotator for Classical Tibetan", "researching the grammaticalisation of 'ego' perspective markers"]
+    },
+    {
+      "name": "University of Cambridge, Dept. Computer Sciecne",
+      "location": "Cambridge, UK",
+      "position": "Research Assistant on computational models for polysemy",
+      "url": "",
+      "startDate": "March 2023",
+      "endDate": "Oct 2023",
+      "summary": "",
+      "highlights": ["data annotator for dependencies structures between different meanings of polysemous words"]
     }
   ],
   "volunteer": [
