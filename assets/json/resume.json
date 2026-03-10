@@ -14,34 +14,28 @@
     {
       "institution": "University of Cambridge; Trinity Hall",
       "location": "Cambridge, UK",
-      "url": "",
       "area": "",
       "studyType": "PhD - Theoretical and Applied Linguistics",
       "startDate": "Oct 2025",
       "endDate": "",
-      "score": "10",
       "courses": ["working on the diachrony of clause-chaining in Tibetic", "thesis supervised by Dr Marieke Meelen"]
     },
    {
       "institution": "University of Cambridge; Selwyn College",
       "location": "Cambridge, UK",
-      "url": "",
       "area": "",
       "studyType": "MPhil by Thesis - Theoretical and Applied Linguistics",
       "startDate": "Oct 2023",
       "endDate": "Jul 2024",
-      "score": "10",
       "courses": ["thesis on the historical morphophonology of verbs in Tibetic, supervised by Dr Marieke Meelen", "examined by Prof Nathan W. Hill (Trinity College Dublin) and Prof Bert Vaux (University of Cambridge), awarded Pass with No Corrections."]
     },
    {
       "institution": "University of Cambridge; Selwyn College",
       "location": "Cambridge, UK",
-      "url": "",
       "area": "",
       "studyType": "BA Hons - Theoretical and Applied Linguistics",
       "startDate": "Oct 2020",
       "endDate": "Jun 2023",
-      "score": "10",
       "courses": ["interests incl. historical linguistics, theoretical linguistics, phonetics, language acquisition", "awarded with First Class degree"]
     }
   ],
@@ -67,12 +61,10 @@
     {
       "institution": "Paris universities and linguistic laboratories",
       "location": "Paris, France",
-      "url": "",
+      "url": "https://fieldling.sciencesconf.org",
       "area": "",
       "studyType": "International School in Linguistic Fieldwork ('Fieldling')",
-      "date": "Sep 2025",
-      "score": "10",
-      "courses": ["lectures and seminars on methodological issues and tools in linguistic fieldwork, elicitation practice sessions"]
+      "date": "Sep 2025"
     },
      {
       "institution": "Trinity College Dublin",
@@ -80,27 +72,22 @@
       "url": "https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/",
       "area": "",
       "studyType": "Summer School for Ancient Trans-Himalayan Languages",
-      "date": "Jun 2025",
-      "score": "10"
+      "date": "Jun 2025"
     },
      {
       "institution": "University of Cambridge",
       "location": "Cambridge, UK",
-      "url": "",
       "area": "",
       "studyType": "Automated Speech Recognition for Endangered Languages Workshop",
-      "date": "Apr 2023",
-      "score": "10"
+      "date": "Apr 2023"
     },
      {
       "institution": "Universiteit Leiden",
       "location": "Leiden, Netherlands",
-      "url": "",
+      "url": "https://www.universiteitleiden.nl/en/education/study-programmes/summer-schools/summer-school-in-languages-and-linguistics",
       "area": "",
       "studyType": "Leiden Summer School in Languages and Linguistics",
-      "date": "Jun 2021",
-      "score": "10",
-      "courses": ["course: 'Chinese historical phonology and Sino-Tibetan comparative Linguistics"]
+      "date": "Jun 2021"
     }
    ],
 
@@ -110,7 +97,7 @@
       "name": "University of Cambridge, Dept. Theoretical and Applied Linguistics",
       "location": "Cambridge, UK",
       "position": "Undergraduate supervisor for Linguistics (BA Hons)",
-      "url": "",
+      "url": "https://kitty-liu-wy.github.io/teaching_service/#supos",
       "startDate": "Oct 2024",
       "endDate": "",
       "summary": "",
@@ -120,7 +107,7 @@
       "name": "SOAS University",
       "location": "London, UK",
       "position": "Research Assistant for AHRC project 'The Emergence of Egophoricity'",
-      "url": "",
+      "url": "https://gtr.ukri.org/projects?ref=AH%2FV011235%2F1",
       "startDate": "Oct 2024",
       "endDate": "Jan 2026",
       "summary": "",
@@ -130,7 +117,7 @@
       "name": "University of Cambridge, Dept. Computer Sciecne",
       "location": "Cambridge, UK",
       "position": "Research Assistant on computational models for polysemy",
-      "url": "",
+      "url": "https://doi.org/10.17863/CAM.116178",
       "startDate": "Mar 2023",
       "endDate": "Oct 2023",
       "summary": "",
