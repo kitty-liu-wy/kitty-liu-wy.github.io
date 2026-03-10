@@ -64,20 +64,31 @@
       "url": "https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/",
       "area": "",
       "studyType": "Summer School for Ancient Trans-Himalayan Languages",
-      "date": "June 2025",
+      "startDate": "June 2025",
+      "endDate": "June 2025",
+      "score": "10",
+    },
+     {
+      "institution": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "url": "",
+      "area": "",
+      "studyType": "Automated Speech Recognition for Endangered Languages Workshop",
+      "startDate": "Apr 2023",
+      "endDate": "",
       "score": "10",
       "courses": [""]
     },
      {
-      "institution": "University of Cambridge",
-      "location": "Trinity Hall",
+      "institution": "Universiteit Leiden",
+      "location": "Leiden, the Netherlands",
       "url": "",
       "area": "",
-      "studyType": "PhD - Theoretical and Applied Linguistics",
-      "startDate": "2025",
+      "studyType": "Leiden Summer School in Languages and Linguistics",
+      "startDate": "June 2021",
       "endDate": "",
       "score": "10",
-      "courses": [""]
+      "courses": ["course: 'Chinese historical phonology and Sino-Tibetan comparative Linguistics"]
     }
    ],
 
