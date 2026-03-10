@@ -53,8 +53,7 @@
       "url": "",
       "area": "",
       "studyType": "International School in Linguistic Fieldwork ('Fieldling')",
-      "startDate": "Sept 2025",
-      "endDate": "",
+      "date": "Sept 2025",
       "score": "10",
       "courses": ["lectures and seminars on methodological issues and tools in linguistic fieldwork, elicitation practice sessions"]
     },
@@ -64,8 +63,7 @@
       "url": "https://www.tcd.ie/Asian/courses/historical-linguistics-summer-school/",
       "area": "",
       "studyType": "Summer School for Ancient Trans-Himalayan Languages",
-      "startDate": "June 2025",
-      "endDate": "June 2025",
+      "date": "June 2025",
       "score": "10"
     },
      {
@@ -74,8 +72,7 @@
       "url": "",
       "area": "",
       "studyType": "Automated Speech Recognition for Endangered Languages Workshop",
-      "startDate": "Apr 2023",
-      "endDate": "",
+      "date": "Apr 2023",
       "score": "10"
     },
      {
@@ -84,8 +81,7 @@
       "url": "",
       "area": "",
       "studyType": "Leiden Summer School in Languages and Linguistics",
-      "startDate": "June 2021",
-      "endDate": "",
+      "date": "June 2021",
       "score": "10",
       "courses": ["course: 'Chinese historical phonology and Sino-Tibetan comparative Linguistics"]
     }
@@ -109,8 +105,8 @@
       "position": "Research Assistant for AHRC project 'The Emergence of Egophoricity'",
       "url": "",
       "startDate": "Oct 2024",
-      "endDate": "Aug 2024",
-      "summary": "Jan 2026",
+      "endDate": "Jan 2026",
+      "summary": "",
       "highlights": ["corpus annotator for Classical Tibetan", "researching the grammaticalisation of 'ego' perspective markers"]
     },
     {
