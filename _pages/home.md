@@ -47,7 +47,7 @@ As an extension of and complement to doing historical linguistics on a lesser-st
 
 I am part of the team making the first part-of-speech tagged diachronic corpus of written Tibetan, as part of the AHRC-funded project ['The Emergence of Egophoricity'](https://gtr.ukri.org/projects?ref=AH%2FV011235%2F1), which investigates the emergence of 'ego' perspective marking in Tibetan and Newar. 
 
-I also do some work on language documentation and revitalisation. [something about collecting data on Humla Tibetan] I am also part of [short description of Dzardzongke and Humla language app projects]
+I also do some work on language documentation and revitalisation. As part of my PhD, I plan to do fieldwork on Humla Tibetan, spoken in the mountains in Nepal. My fieldwork data will not only contribute to my PhD, but also to an ongoing project at the University of Cambridge that creates digital resources for minority languages. We have so far built a language app for Dzardzongke Tibetan spoken in Nepal, and plan to do the same for Humla Tibetan. 
 
 <h5 style="margin-top: 2rem; margin-bottom: 1rem;"> theoretical morphology </h5>
 
