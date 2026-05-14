@@ -9,10 +9,6 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<p> 
-Please email me if you would like a copy of anything that isn't already linked!
-</p>
-
 <ul>
     <li><a href="#articles"><b>peer-reviewed journal articles</b></a></li>
     <li><a href="#proceedings"><b>conference proceedings</b></a></li>
