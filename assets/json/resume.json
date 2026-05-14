@@ -61,6 +61,14 @@
   ],
 
    "training": [
+     {
+      "institution": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "url": "https://ethl.uk",
+      "area": "",
+      "studyType": "Edinburgh Theoretical Historical Linguistics Summer School",
+      "date": "2026-06"
+    },
     {
       "institution": "Paris universities and linguistic laboratories",
       "location": "Paris, France",
