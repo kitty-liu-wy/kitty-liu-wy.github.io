@@ -9,10 +9,6 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 
-<p> 
-Please email me if you would like a copy of anything that isn't already linked!
-</p>
-
 <ul>
     <li><a href="#reviewed_presentations"><b>peer-reviewed presentations</b></a></li>
     <li><a href="#invited_talks"><b>invited talks</b></a></li>
