@@ -16,6 +16,7 @@ nav_order: 2
     <li><a href="#theses"><b>theses</b></a></li>
 </ul>
 
+<div class="publications">
 
 <h3 id="articles" style="margin-top: 4.5rem; margin-bottom: -1rem;">
   peer-reviewed articles
