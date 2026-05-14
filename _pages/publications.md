@@ -10,15 +10,13 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <p> 
-This page lists my research output. Please email me if you would like a copy of anything that isn't already linked!
+Please email me if you would like a copy of anything that isn't already linked!
 </p>
 
 <ul>
     <li><a href="#articles"><b>peer-reviewed journal articles</b></a></li>
     <li><a href="#proceedings"><b>conference proceedings</b></a></li>
     <li><a href="#corpora"><b>corpus materials</b></a></li>
-    <li><a href="#reviewed_presentations"><b>peer-reviewed presentations</b></a></li>
-    <li><a href="#invited_talks"><b>invited talks</b></a></li>
     <li><a href="#theses"><b>theses</b></a></li>
 </ul>
 
@@ -43,16 +41,6 @@ This page lists my research output. Please email me if you would like a copy of 
     corpus materials
 </h3>
 {% bibliography -f corpora %}
-
-<h3 id="reviewed_presentations" style="margin-top: 4.5rem; margin-bottom: -1rem;">
-    peer-reviewed presentations
-</h3>
-  {% bibliography -f reviewed_presentations %}
-
-  <h3 id="invited_talks" style="margin-top: 4.5rem; margin-bottom: -1rem;">
-    invited talks
-</h3>
-{% bibliography -f invited_talks %}
 
 <h3 id="theses" style="margin-top: 4.5rem; margin-bottom: -1rem;">
     theses
