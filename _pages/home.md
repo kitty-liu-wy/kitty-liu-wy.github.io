@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025, and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
+I am a PhD student in Linguistics at the University of Cambridge. I work on historical linguistics, and my PhD project looks at the diachrony of clause chaining in Tibetic languages. I began my PhD in October 2025. I am supervised by [Dr Marieke Meelen](https://mariekemeelen.github.io) and my research is funded by the [Cambridge Trust](https://www.cambridgetrust.org). 
 
 You can contact me at wl399 [at] cam [dot] ac [dot] uk .
 
