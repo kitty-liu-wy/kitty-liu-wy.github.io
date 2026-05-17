@@ -29,7 +29,7 @@ I am a PhD student in Linguistics at the University of Cambridge. I work on hist
 
 You can contact me at wl399 [at] cam [dot] ac [dot] uk .
 
-Please do drop me an email if you want to talk about any of my work, you would like to see any writings or slides that are not linked, or if any external links on this site are broken.
+Please do drop me an email if you want to talk about any of my work, or you would like to see any writings or slides that are not linked.
 
 <h3 style="margin-top: 2rem; margin-bottom: 0.6rem;"> Research interests and current projects </h3>
 
