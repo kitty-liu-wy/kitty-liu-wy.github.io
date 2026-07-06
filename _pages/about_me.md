@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: kitty.jpg
+    image: kitty-2026.jpg
     content: about_kitty.md
     image_circular: true # crops the image to make it circular
     more_info: I know more than the average person about bell-ringing and stained glass.
