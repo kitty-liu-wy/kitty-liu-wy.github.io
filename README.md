@@ -1,4 +1,4 @@
-This website is made from the **[al-folio](https://alshedivat.github.io/al-folio/)** template on Github (forked Jan 2026), which is itself made from [Jekyll](https://jekyllrb.com/). The original version of the README file can be found at _readme-original.md
+This website is made from the **[al-folio](https://alshedivat.github.io/al-folio/)** template on Github (forked Jan 2026), which is itself made from [Jekyll](https://jekyllrb.com/). The original version of the README file can be found at [_readme-original.md](_readme-original.md). My finished website is [here](https://kitty-liu-wy.github.io). 
 
 ## License
 
